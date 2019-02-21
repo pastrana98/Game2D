@@ -1,1 +1,4 @@
-Game2D
+
+# Game2D
+
+* usando un pokito typeScript
