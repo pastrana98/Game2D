@@ -1,4 +1,4 @@
 
 # Game2D
 
-* usando un pokito typeScript
+* usando un pokito typeScript y canvas
